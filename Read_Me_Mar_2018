@@ -1,0 +1,23 @@
+QUIZ
+Type
+Name
+Difficulty
+
+
+IMPORTANCE
+>> This is a sum cross of a given quiz's randomness(likelihood of bieng generated) and its variablity 
+>> (probability assigned before the quiz generator is run. (necsessity of recurrance).
+
+*** 
+   - Random
+   - Variablity
+Vocabulary
+
+Generate a RANDOM NUMBER from UNIQUE IDENTIFIER
+
+
+UNIQUE IDENTIFIER is constructed from Quiz Type; Name; Difficulty; and Importance. 
+
+Random Number generator is a 3-digit number between (0-999)
+Quiz Name is Under the following structure.
+
